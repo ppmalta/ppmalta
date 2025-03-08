@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullSkack Developer from Brazil</h3>
 
 # 💫 About Me:
-🔭 I'm not currently working for any company;<br>👯 I'm looking to collaborate on team projects to develop my soft skills;<br>🤝 I'm looking for help with how to better develop myself in the Front-End and FullStack areas;<br>🌱 I'm currently learning Python, UX/UI and SQL;<br>💬 Ask me about Web Development;<br>⚡ Interesting facts about Javascript, Typescript, Java, HTML10, CSS3, React, Next.js, Vue.js, Angular, Noje.js and SQL.
+🔭 I'm not currently working for any company;<br>👯 I'm looking to collaborate on team projects to develop my soft skills;<br>🤝 I'm looking for help with how to better develop myself in the Front-End and FullStack areas;<br>🌱 I'm currently learning Python, UX/UI and SQL;<br>💬 Ask me about Web Development;<br>⚡ Interesting facts about Javascript, Typescript, Java, HTML5, CSS3, React, Next.js, Vue.js, Angular, Noje.js and SQL.
 
 
 ## 🌐 Socials:
