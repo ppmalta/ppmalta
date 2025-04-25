@@ -34,6 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=pp_malta&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pp_malta&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pp_malta&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pp_malta&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
