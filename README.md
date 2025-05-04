@@ -38,7 +38,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%23000000?style=for-the-badge&logo=googlefonts&logoColor=%234285F4&logoSize=auto&labelColor=rgba&color=%23000000) 
 - 🎛️ Operating System:
   
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/ᴡɪɴᴅᴏᴡs%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) ![macOS](https://img.shields.io/badge/-%23494649?style=for-the-badge&logo=macos&logoColor=23F2F1F2&logoSize=auto&labelColor=rgba&color=%23494649
 ) ![iOS](https://img.shields.io/badge/-%23494649?style=for-the-badge&logo=ios&logoColor=%23F2F1F2&logoSize=auto&labelColor=rgba&color=%23494649) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
